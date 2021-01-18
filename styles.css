@@ -1,9 +1,7 @@
-* {
-  /* margin:0px;
-  padding:0px; */
-  /* color: red;
-  border: 2px solid red; */
-}
+/* * {
+  margin:0px;
+  padding:0px;
+} */
 
 /* #octocat {
   display: block;
@@ -17,7 +15,4 @@
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 } */
-.carousel {
-  width:auto;
-  height:360px;
-}
+
